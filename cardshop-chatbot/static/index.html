@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Derpdot Cards Chatbot</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <header class="chat-header">
+            <div class="header-content">
+                <h1>🎯 Derpdot Cards</h1>
+                <p>Your Premium Trading Card Specialist</p>
+            </div>
+            <div class="status-indicator" id="status">
+                <span class="status-dot"></span>
+                <span class="status-text">Connected</span>
+            </div>
+        </header>
+
+        <div class="chat-messages" id="chatMessages">
+            <div class="message bot-message">
+                <div class="message-avatar">🤖</div>
+                <div class="message-content">
+                    <div class="message-text">
+                        Welcome to Derpdot Cards! I'm here to help you find trading cards for Magic: The Gathering, Pokemon, Yu-Gi-Oh, and more. 
+                        <br><br>
+                        Try asking me:
+                        <ul>
+                            <li>"Do you have Lightning Bolt in stock?"</li>
+                            <li>"Show me cards under $10"</li>
+                            <li>"What Pokemon cards do you have?"</li>
+                            <li>"I need cards for my Commander deck"</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="typing-indicator" id="typingIndicator" style="display: none;">
+            <div class="message bot-message">
+                <div class="message-avatar">🤖</div>
+                <div class="message-content">
+                    <div class="typing-dots">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="chat-input-container">
+            <form class="chat-input-form" id="chatForm">
+                <input 
+                    type="text" 
+                    id="messageInput" 
+                    placeholder="Ask about trading cards..." 
+                    maxlength="1000"
+                    autocomplete="off"
+                >
+                <button type="submit" id="sendButton">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M2 21L23 12L2 3V10L17 12L2 14V21Z" fill="currentColor"/>
+                    </svg>
+                </button>
+            </form>
+            <div class="input-footer">
+                <small>Powered by Claude 4 Sonnet • <span id="messageCount">0</span>/1000 characters</small>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

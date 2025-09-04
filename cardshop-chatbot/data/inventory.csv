@@ -1,0 +1,51 @@
+card_id,name,set_name,rarity,condition,price_cad,quantity,image_url,description
+1,Lightning Bolt,Unlimited Edition,Common,Near Mint,2.50,12,https://example.com/lightning-bolt.jpg,Deal 3 damage to any target
+2,Black Lotus,Alpha,Mythic Rare,Lightly Played,45000.00,1,https://example.com/black-lotus.jpg,Add three mana of any one color
+3,Counterspell,Ice Age,Common,Near Mint,1.25,8,https://example.com/counterspell.jpg,Counter target spell
+4,Serra Angel,Alpha,Uncommon,Near Mint,15.00,3,https://example.com/serra-angel.jpg,Flying vigilance 4/4 Angel
+5,Shivan Dragon,Core Set 2021,Rare,Near Mint,3.00,6,https://example.com/shivan-dragon.jpg,Flying 5/5 Dragon
+6,Sol Ring,Commander 2021,Uncommon,Near Mint,2.00,15,https://example.com/sol-ring.jpg,Add 2 colorless mana
+7,Path to Exile,Modern Masters,Uncommon,Near Mint,8.50,4,https://example.com/path-to-exile.jpg,Exile target creature
+8,Dark Ritual,Tempest,Common,Near Mint,1.00,10,https://example.com/dark-ritual.jpg,Add BBB to your mana pool
+9,Ancestral Recall,Alpha,Mythic Rare,Moderately Played,8500.00,1,https://example.com/ancestral-recall.jpg,Draw three cards
+10,Time Walk,Alpha,Mythic Rare,Heavily Played,3200.00,1,https://example.com/time-walk.jpg,Take an extra turn
+11,Pikachu,Base Set,Common,Near Mint,25.00,5,https://example.com/pikachu.jpg,Electric Mouse Pokemon
+12,Charizard,Base Set,Rare,Lightly Played,350.00,2,https://example.com/charizard.jpg,Flame Pokemon with powerful fire attacks
+13,Blastoise,Base Set,Rare,Near Mint,125.00,1,https://example.com/blastoise.jpg,Shellfish Pokemon with water cannons
+14,Venusaur,Base Set,Rare,Near Mint,80.00,3,https://example.com/venusaur.jpg,Seed Pokemon with plant powers
+15,Mewtwo,Base Set,Rare,Near Mint,45.00,4,https://example.com/mewtwo.jpg,Psychic type legendary Pokemon
+16,Mew,Wizards Black Star Promo,Special,Mint,150.00,1,https://example.com/mew.jpg,Mythical psychic Pokemon
+17,Blue-Eyes White Dragon,Legend of Blue Eyes,Rare,Near Mint,12.00,7,https://example.com/blue-eyes.jpg,3000 ATK/2500 DEF Dragon
+18,Dark Magician,Starter Deck Yugi,Rare,Near Mint,8.00,9,https://example.com/dark-magician.jpg,2500 ATK/2100 DEF Spellcaster
+19,Exodia the Forbidden One,Legend of Blue Eyes,Rare,Lightly Played,75.00,1,https://example.com/exodia-head.jpg,Win the duel if you have all 5 pieces
+20,Red-Eyes Black Dragon,Legend of Blue Eyes,Rare,Near Mint,6.50,4,https://example.com/red-eyes.jpg,2400 ATK/2000 DEF Dragon
+21,Mirror Force,Metal Raiders,Rare,Near Mint,18.00,3,https://example.com/mirror-force.jpg,Destroy all attack position monsters
+22,Pot of Greed,Legend of Blue Eyes,Common,Near Mint,5.00,6,https://example.com/pot-of-greed.jpg,Draw 2 cards from your deck
+23,Mystical Space Typhoon,Spell Ruler,Common,Near Mint,2.75,8,https://example.com/mst.jpg,Destroy 1 Spell/Trap card
+24,Sangan,Pharaoh's Servant,Rare,Near Mint,4.25,5,https://example.com/sangan.jpg,Search for monster when destroyed
+25,Witch of the Black Forest,Starter Deck Yugi,Rare,Near Mint,3.50,7,https://example.com/witch.jpg,Search deck for monster when destroyed
+26,Mana Crypt,Eternal Masters,Mythic Rare,Near Mint,180.00,2,https://example.com/mana-crypt.jpg,Add 2 colorless mana each turn
+27,Demonic Tutor,Unlimited Edition,Uncommon,Lightly Played,35.00,3,https://example.com/demonic-tutor.jpg,Search library for any card
+28,Wheel of Fortune,Unlimited Edition,Rare,Near Mint,85.00,1,https://example.com/wheel-fortune.jpg,Each player discards and draws 7
+29,Force of Will,Alliances,Uncommon,Near Mint,95.00,2,https://example.com/force-of-will.jpg,Counter spell for free by exiling blue card
+30,Wasteland,Tempest,Uncommon,Near Mint,28.00,4,https://example.com/wasteland.jpg,Destroy target nonbasic land
+31,Tarmogoyf,Future Sight,Rare,Near Mint,45.00,3,https://example.com/tarmogoyf.jpg,Power/toughness equals card types in graveyards
+32,Snapcaster Mage,Innistrad,Rare,Near Mint,22.00,5,https://example.com/snapcaster.jpg,Give instant spell flashback when enters
+33,Jace the Mind Sculptor,Worldwake,Mythic Rare,Near Mint,85.00,2,https://example.com/jace-tms.jpg,Powerful planeswalker with multiple abilities
+34,Liliana of the Veil,Innistrad,Mythic Rare,Near Mint,65.00,3,https://example.com/liliana-veil.jpg,Discard and sacrifice effects planeswalker
+35,Elspeth Knight-Errant,Shards of Alara,Mythic Rare,Near Mint,18.00,4,https://example.com/elspeth-knight.jpg,White planeswalker creating tokens
+36,Chandra Torch of Defiance,Kaladesh,Mythic Rare,Near Mint,12.00,6,https://example.com/chandra-torch.jpg,Red planeswalker dealing damage and ramping
+37,Nissa Worldwaker,Magic 2015,Mythic Rare,Near Mint,8.50,3,https://example.com/nissa-worldwaker.jpg,Green planeswalker animating lands
+38,Ajani Goldmane,Lorwyn,Rare,Near Mint,5.00,4,https://example.com/ajani-goldmane.jpg,White planeswalker gaining life and pumping creatures
+39,Garruk Wildspeaker,Lorwyn,Rare,Near Mint,7.25,5,https://example.com/garruk-wild.jpg,Green planeswalker untapping lands and making beasts
+40,Sarkhan Vol,Shards of Alara,Mythic Rare,Near Mint,6.00,2,https://example.com/sarkhan-vol.jpg,Red-green planeswalker pumping creatures
+41,Pokemon Trainer - Professor Oak,Base Set,Uncommon,Near Mint,15.00,3,https://example.com/prof-oak.jpg,Discard hand and draw 7 cards
+42,Energy Removal,Base Set,Common,Near Mint,2.00,8,https://example.com/energy-removal.jpg,Remove energy card from opponent's Pokemon
+43,Computer Search,Base Set,Rare,Near Mint,200.00,1,https://example.com/computer-search.jpg,Discard 2 cards to search for any card
+44,Item Finder,Base Set,Rare,Near Mint,35.00,2,https://example.com/item-finder.jpg,Discard 2 cards to get trainer from discard
+45,PlusPower,Base Set,Uncommon,Near Mint,3.50,6,https://example.com/pluspower.jpg,Add 10 damage to attack this turn
+46,Defender,Base Set,Uncommon,Near Mint,2.25,7,https://example.com/defender.jpg,Reduce damage by 20 this turn
+47,Gust of Wind,Base Set,Common,Near Mint,4.00,5,https://example.com/gust-wind.jpg,Switch opponent's active Pokemon
+48,Bill,Base Set,Common,Near Mint,8.00,4,https://example.com/bill.jpg,Draw 2 cards from deck
+49,Polymerization,Starter Deck Yugi,Common,Near Mint,3.25,6,https://example.com/polymerization.jpg,Fusion summon by combining monsters
+50,Fissure,Starter Deck Yugi,Common,Near Mint,2.50,4,https://example.com/fissure.jpg,Destroy 1 monster on the field
